@@ -489,6 +489,8 @@ header {
 nav {
 	margin-left:160px; 
 }
+
+
 /*index specific @980
 */.bio {
 	margin-left:85px;
@@ -862,7 +864,7 @@ nav {
 #sidebar {
 	margin-left:10px;
 	width:100%;
-	max-width:620px;
+	max-width:640px;
 	margin-top:0px;
 	margin-bottom:200px;
 
@@ -876,7 +878,6 @@ footer {
 
 
 }
-
 
 
 
